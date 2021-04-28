@@ -314,8 +314,9 @@ footer{
 		margin-left: 50px;
 	}
 	.main{
-		padding:20px;
-		margin-left:15px;
+		padding:5px;
+		/* margin-left:5px; */
+		margin:30px;
 	}
 	.floating-btn {
 	visibility: hidden;
